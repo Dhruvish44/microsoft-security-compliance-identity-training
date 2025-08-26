@@ -10,11 +10,11 @@ The training strengthened my knowledge of **cloud security models, Zero Trust, e
 
 | Concept | Screenshot |
 |---------|------------|
-| Shared Responsibility Model | ![Shared Responsibility](./screenshots/shared-responsibility.png) |
-| Defense in Depth | ![Defense in Depth](./screenshots/defense-in-depth.png) |
-| Zero Trust Pillars | ![Zero Trust](./screenshots/zero-trust-pillars.png) |
-| Identity as the Security Perimeter | ![Identity Security](./screenshots/identity-security.png) |
-| Microsoft Security Copilot | ![Security Copilot](./screenshots/sentinel-overview.png) |
+| Shared Responsibility Model | ![Shared Responsibility](/shared-responsibility.png) |
+| Defense in Depth | ![Defense in Depth](defense-in-depth.png) |
+| Zero Trust Pillars | ![Zero Trust](zero-trust-pillars.png) |
+| Identity as the Security Perimeter | ![Identity Security](identity-security.png) |
+| Microsoft Security Copilot | ![Security Copilot](sentinel-overview.png) |
 
 ---
 
